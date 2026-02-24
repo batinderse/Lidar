@@ -1,0 +1,4 @@
+En Kisa Dogru: Dogru1 ve Dogru5
+Kesisim:(0.946, 1.044)
+Aci: 132.29 derece
+Uzaklik: 1.409 m
